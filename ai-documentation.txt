@@ -1,7 +1,17 @@
 Prompts and output from AI. Please also list which AI was used.
 
 John Jacobsen:
-
+claude ai was used to help with -->
+Infrastructure files
+Python module
+and
+Git workflow: helped guide me through git commands for committing, resolving merge conflicts, and pushing to the class GitHub organization.
+prompts included:
+"I have provided 3 data sets below. Could you tell me if they are the same data sets, and if they match the project proposal?"
+"whats going on here?" (when terminal showed > prompt waiting for input)"
+outputs included: 
+"Examined the CSV, Excel, and PDF files programmatically. Confirmed all three contain the same CDC Table 8 data in different formats. Recommended using the CSV for analysis since it's in tidy format with all years (1999–2018)."
+"Explained the heredoc command got cut off, advised pressing Ctrl+C, then provided an alternative method using Python to write the file."
 -----------------------
 
 Marcos Negrete:
