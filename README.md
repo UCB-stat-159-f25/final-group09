@@ -47,7 +47,7 @@ The repository has this structure:
 - `myst.yml`: generated file needed for MyST website 
 
 Link to Website:
-[![Github Pages](https://ucb-stat-159-f25.github.io/final-group09)]
+[Github Pages](https://ucb-stat-159-f25.github.io/final-group09/)
 
 Link to Binder:
 [![Binder]()]
