@@ -4,7 +4,7 @@
 
 
 ### Project Description
-Analyze drug overdose death rates in the United States by drug type, sex, age group, and Race/Hispanic origin. 
+Analyze drug overdose death rates in the United States by drug type, sex, age group, and race/hispanic origin.  
 
 
 ### Installation
