@@ -32,6 +32,8 @@ jobs:
         run: npm install -g mystmd
         
       - name: Build with MyST
+        env:
+          BASE_URL: /final-group09
         run: myst build --html
         
       - name: Upload artifact
