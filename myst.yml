@@ -3,8 +3,8 @@ project:
   id: 81133cd1-6dfa-43e0-805f-66b48a080997
   github: https://github.com/UCB-stat-159-f25/final-group09
   toc:
-    - file: README.md
     - file: main.ipynb
+    - file: README.md  
     - file: project-description.md
     - title: Analysis
       children:
@@ -15,7 +15,6 @@ project:
     - title: Data
       children:
         - file: data/LoadOverdoseData.ipynb
-
 site:
   template: book-theme
   output: _build/html
