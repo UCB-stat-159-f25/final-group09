@@ -30,4 +30,3 @@ _build
 figures/*.png
 
 # Ignore CSV data
-data/*.csv
