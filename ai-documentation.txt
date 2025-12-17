@@ -15,13 +15,30 @@ outputs included:
 -----------------------
 
 Marcos Negrete:
+Data cleaning guidance: Asked for help parsing demographic labels from CDC data format, handling missing values and unreliable estimates marked with FLAG columns
+Pandas operations: Requested help with data transformation tasks like splitting combined categorical variables (e.g., "Male: 25-34 years: White") into separate columns
+Exploratory analysis: Sought assistance generating summary statistics, creating initial visualizations, and identifying interesting patterns in overdose death rates across different drug types and demographics
+
+Documentation: Got help writing clear data README files explaining variable meanings, data sources, and cleaning decisions made during preprocessing
 
 -----------------------
 
 Evan Vlahos:
+Statistical analysis design: Asked for guidance on appropriate methods for analyzing demographic trends, comparing death rates across groups, and handling time series data
+
+Visualization creation: Requested help with matplotlib/seaborn code for creating professional heatmaps, trend lines, and comparative bar charts across demographic groups
+
+Interpretation assistance: Sought help understanding statistical results, calculating percentage changes, and identifying meaningful patterns in opioid vs. other drug death rates
+
+Code debugging: Got assistance troubleshooting notebook execution issues, data filtering problems, and ensuring consistent analysis approaches across multiple notebooks
 
 -----------------------
 
 Lillie Wang:
+Technical writing: Asked for help structuring the main narrative notebook, writing clear introductions/conclusions, and synthesizing findings from multiple analysis notebooks into coherent storylines
+
+MyST configuration: Sought assistance setting up myst.yml, configuring GitHub Pages deployment, and troubleshooting website build issues
+Documentation creation: Got help writing professional README files, structuring author contributions, and creating clear installation/usage instructions
+Integration tasks: Requested help with Binder setup, Zenodo DOI configuration, and ensuring all project components work together seamlessly for reproducibility
 
 -----------------------
