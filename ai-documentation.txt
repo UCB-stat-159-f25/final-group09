@@ -24,6 +24,7 @@ Documentation: Got help writing clear data README files explaining variable mean
 -----------------------
 
 Evan Vlahos:
+<<<<<<< HEAD
 Statistical analysis design: Asked for guidance on appropriate methods for analyzing demographic trends, comparing death rates across groups, and handling time series data
 
 Visualization creation: Requested help with matplotlib/seaborn code for creating professional heatmaps, trend lines, and comparative bar charts across demographic groups
@@ -41,4 +42,21 @@ MyST configuration: Sought assistance setting up myst.yml, configuring GitHub Pa
 Documentation creation: Got help writing professional README files, structuring author contributions, and creating clear installation/usage instructions
 Integration tasks: Requested help with Binder setup, Zenodo DOI configuration, and ensuring all project components work together seamlessly for reproducibility
 
+=======
+ChatGPT and Gemini was used to help with -->
+Q: how do I create a two color seaborn lineplot from the same dataframe
+Q: how to add a legend with the colors of the lineplots and the name of the line
+Q: how to create side-by-side bar plots in matplotlib from a pandas dataframe
+Q: how do I color the bars with different colors by category
+Q: how to create a heatmap plot using seaborn with years as a category and sex as another category and include the value labels
+Q: how to merge two pandas dataframes on two common columns
+Q: how to create a multi parameter scatter plot using seaborn where each plot has its own dataframe each plot has a different point symbol
+Q: how to add a legend to the multi parameter scatter plot that includes different colors and symbols for each plot
+-----------------------
+
+Lillie Wang:
+ChatGPT -->
+how do i hyperlink in md? 
+[name](url)
+>>>>>>> 5a09199 (finalize main, README, and ai documentation)
 -----------------------

@@ -1,10 +1,13 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group09/main)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17960353.svg)](https://doi.org/10.5281/zenodo.17960353)
-
-
 # Group 9 Final Project: Drug Overdoes Death Rates in the United States (1999-2018) 
 #### By John Jacobsen, Marcos Negrete, Evan Vlahos, Lillie Wang
 
+Link to Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group09/main)
+
+Link to Website:
+[Github Pages](https://ucb-stat-159-f25.github.io/final-group09/)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17960353.svg)](https://doi.org/10.5281/zenodo.17960353)
 
 ### Project Description
 Analyze drug overdose death rates in the United States by drug type, sex, age group, and race/hispanic origin.  
@@ -36,7 +39,6 @@ to run the tests, run this command:
 make test 
 ```
 
-
 ### Repository Structure
 The repository has this structure:
 - `analysis/`: contains the notebooks that analyze the data including demographic analysis, statistics by drug type, opioid analysis, and trend prediction
@@ -48,9 +50,3 @@ The repository has this structure:
 - `main.ipynb`: contains a summarized version of our project 
 - `MakeFile`: contains the commands that are created for use with make
 - `myst.yml`: generated file needed for MyST website 
-
-Link to Website:
-[Github Pages](https://ucb-stat-159-f25.github.io/final-group09/)
-
-Link to Binder:
-[![Binder]()]
