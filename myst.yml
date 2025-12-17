@@ -17,4 +17,3 @@ project:
         - file: data/LoadOverdoseData.ipynb
 site:
   template: book-theme
-  output: _build/html
