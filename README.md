@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group09/main)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17960353.svg)](https://doi.org/10.5281/zenodo.17960353)
 
 
 # Group 9 Final Project: Drug Overdoes Death Rates in the United States (1999-2018) 
