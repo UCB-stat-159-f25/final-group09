@@ -2,6 +2,7 @@ version: 1
 project:
   id: 81133cd1-6dfa-43e0-805f-66b48a080997
   github: https://github.com/UCB-stat-159-f25/final-group09
+  bibliography: [references.bib]
   toc:
     - file: main.ipynb
     - file: README.md  
